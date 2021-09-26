@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniela! 👋
 
-I am a Web Developer recently graduated from [Technigo](https://www.technigo.io/program) bootcamp this summer 2020. 😎
+I am a Web Developer based in Sweden and recently graduated from [Technigo](https://www.technigo.io/program) bootcamp this summer 2020. 😎 🇸🇪
  
 - ✨  My favorite stack includes: HTML, CSS, JavaScript, React JS and Styled Components 
 - 🍀  My goals for 2020: to find my first job as a web developer! 
