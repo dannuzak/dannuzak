@@ -8,4 +8,4 @@ I am a Web Developer based in Sweden and graduated from [Technigo](https://www.t
 - 🧚🏼‍♀️  I look forward to collaborate with companies and projects that make a difference in society and people's life.
 - 💬  Let's connect on [LinkedIn](https://www.linkedin.com/in/danielazacarias/) or via [email](mailto:daniela.zacarias@outlook.com)
 - ⚡  Fun fact: I like cooking dishes from other countries and water 💧  is my element: 🏄🏻‍♀️🌊🌊🌊  🏊🏻‍♀️🌊🌊🌊  🥽 🐠🐬 🌊🌊🌊
-- 💼  Take a look at my [Portfolio](https://my-portfolio-dannuzak.netlify.app/) and [CV](https://dannuzak.github.io/My-CV/) 👀
+- 💼  Take a look at my [Portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
