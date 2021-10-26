@@ -9,4 +9,4 @@ I am a creative Web Developer based in Gothenburg, Sweden and graduated from [Te
 - 🧚🏼‍♀️   I look forward to collaborate with companies and projects that make a difference in society and people's life.
 - 💬   Let's connect on [LinkedIn](https://www.linkedin.com/in/danielazacarias/) or send me an email to daniela.zacarias@outlook.com
 - ⚡   Fun fact: I like cooking dishes from other countries and water 💧  is my element: 🏄🏻‍♀️🌊🌊🌊  🏊🏻‍♀️🌊🌊🌊  🥽 🐠🐬 🌊🌊🌊
-- 💼   Take a look at my [Portfolio](https://my-portfolio-dannuzak.netlify.app/) 👀
+- 💼   Take a look at my [Portfolio](https://www.dannuzak.com/) 👀
