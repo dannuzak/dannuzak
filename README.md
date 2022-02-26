@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniela! 👋
 
-I am a creative Web Developer based in Gothenburg, Sweden and graduated from [Technigo](https://www.technigo.io/program) bootcamp this summer 2021. 😎 🇸🇪
+I am a creative Web Developer based in Gothenburg, Sweden and graduated from [Technigo](https://www.technigo.io/program) bootcamp summer 2021. 😎 🇸🇪
  
 - 🍀   My goal for 2021: to get my first job as a web developer! ----> Already accomplished! ✅
 - ✨   My favorite stack includes: HTML, CSS, JavaScript, React JS, APIs and Styled Components 
